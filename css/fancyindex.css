@@ -31,6 +31,11 @@
   box-sizing: border-box;
 }
 
+.Cur_Time {
+  float: right;
+  padding: 10px 10px 10px 10px;
+}
+
 .clearfix {
   *zoom: 1;
 }
